@@ -1,6 +1,11 @@
                       pi-motion-lite
         raspberry pi with camera module using picamera python module
               to do simple motion detection
+              
+https://www.raspberrypi.org/forums/viewtopic.php?f=43&t=45235&start=225
+https://www.raspberrypi.org/forums/viewtopic.php?p=654662&sid=fd46d990c165454f495dc5c2fa371096#p654662
+https://www.raspberrypi.org/forums/viewtopic.php?f=43&t=87997
+
                  
 Introduction
 ------------
